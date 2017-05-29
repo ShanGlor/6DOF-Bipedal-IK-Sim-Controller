@@ -1,7 +1,7 @@
 /*
 6DOF Bipedal IK Sim/Controller by ShanGlor
 Upload "StandardFirmata" sketch to Arduino
-Tested on Processing 2.0.1
+Tested on Processing 2.0.1 and 2.2.1
 Tested on Processing 3.3 needs to install "Arduino" libs
 Select from the serial port list on void setup, change "[1]" to your appropriate COM port. i.e. [2] or [3], mine is COM3 on [1]. 
 Servos on D3, D5, D6 for left leg.  D9, D10 and D11 for right leg.
